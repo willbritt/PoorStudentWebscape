@@ -36,4 +36,3 @@ function LouisvilleMajors()
 
   d3.selectAll("tr td:first-child").nodes()
 }
-
